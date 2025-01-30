@@ -23,6 +23,7 @@ public void modifycontactTest() {
 @Test
 public void deletecontactTest() {
 	System.out.println("execute deletecontactTest");
+System.out.println("hu");
 
 }
 }

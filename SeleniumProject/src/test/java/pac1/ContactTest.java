@@ -20,6 +20,9 @@ public void createcontactTest() {
 public void modifycontactTest() {
 	System.out.println("execute modifycontactTest");
 }
+@Test
+public void delcontactTest() {
+	System.out.println("execute delcontactTest");
 
-
+}
 }

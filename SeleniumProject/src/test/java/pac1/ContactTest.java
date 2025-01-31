@@ -24,6 +24,7 @@ public void modifycontactTest() {
 public void deletecontactTest() {
 	System.out.println("execute deletecontactTest");
 System.out.println("hu");
+System.out.println("hii");
 
 }
 }
